@@ -1,0 +1,8 @@
+
+{
+  "name": "LifeOS – Decision & Growth Companion",
+  "description": "A high-fidelity personal growth platform for logging life decisions, tracking emotional states, and generating AI-powered insights for long-term self-improvement.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
