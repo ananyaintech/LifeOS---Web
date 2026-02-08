@@ -1,20 +1,47 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# LifeOS – Decision & Growth Companion
 
-# Run and deploy your AI Studio app
+LifeOS is an experimental, AI-assisted project that explores how technology can support
+personal decision-making, self-reflection, and growth.
 
-This contains everything you need to run your app locally.
+This repository contains multiple prototypes and references generated and refined using
+Google AI Studio.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1lD4bG7gB9pvWLZGT8OVel9vQIQpY5Fjz
+## 🌱 Project Vision
+LifeOS aims to act as a private thinking companion that helps users:
+- reflect on decisions
+- organize thoughts
+- understand personal growth patterns
+- experiment with AI-assisted self-improvement tools
 
-## Run Locally
+## 📂 Repository Structure
 
-**Prerequisites:**  Node.js
+/web-prototype/
+- Static website prototype built using HTML, CSS, and JavaScript
 
+/ai-experiments/
+- AI-generated frontend logic and TypeScript experiments
+- Used to explore UI and interaction ideas
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+/android-references/
+- Reference Kotlin files for potential Android implementation
+
+## 🛠 Technologies Used
+- HTML, CSS, JavaScript
+- TypeScript (experimental)
+- Google AI Studio (Gemini models)
+- GitHub
+
+## 🚧 Project Status
+This project is in an early exploratory phase.
+The focus is on idea validation, UI concepts, and AI-assisted workflows.
+
+## ✨ Why this project is unique
+- Built using AI-assisted development (prompt-driven)
+- Focused on personal decision-making and growth
+- Explores cross-platform possibilities (web + Android)
+
+## 👩‍💻 Author
+Ananya Chaurasia  
+Computer Science Engineering student  
+Exploring AI-assisted product development
+
